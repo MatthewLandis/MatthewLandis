@@ -1,7 +1,4 @@
-<div align="center">
-
-## 👋  Hello, I'm Matthew Landis!  👋<br> Web developer.
-
+## Hello, I'm Matthew Landis!  👋
 
 ### A little about me
 I have an associate degree in Programming from Schoolcraft College and
@@ -11,9 +8,7 @@ I build short fun projects, find them below!
   <img src="https://github.com/user-attachments/assets/7e66fc2b-a9d3-4f26-abc1-25b9f99ef220" alt="Visit my portfolio" width="100%" />
 </a>
 
-### My favorites
+### What I'm best at
 **Angular · Firebase · PostgreSQL**
 
-[Explore my portfolio →](https://matthewlandis.dev/)
-
-</div>
+[Visit my portfolio →](https://matthewlandis.dev/)
